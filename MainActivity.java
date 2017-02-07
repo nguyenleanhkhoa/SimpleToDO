@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<String> dsitem;
     ArrayAdapter<String>adapter;
     EditText edtenter;
-    Button btnenter;
+    Button btnenter; 
     Integer row;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
